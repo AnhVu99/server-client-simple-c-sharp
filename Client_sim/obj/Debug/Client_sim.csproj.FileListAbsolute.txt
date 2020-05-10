@@ -1,0 +1,5 @@
+E:\HK2-III\KTTKPM\Server_Sim\Client_sim\bin\Debug\Client_sim.exe.config
+E:\HK2-III\KTTKPM\Server_Sim\Client_sim\bin\Debug\Client_sim.exe
+E:\HK2-III\KTTKPM\Server_Sim\Client_sim\bin\Debug\Client_sim.pdb
+E:\HK2-III\KTTKPM\Server_Sim\Client_sim\obj\Debug\Client_sim.exe
+E:\HK2-III\KTTKPM\Server_Sim\Client_sim\obj\Debug\Client_sim.pdb

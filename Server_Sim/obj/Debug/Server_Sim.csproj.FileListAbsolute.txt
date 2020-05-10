@@ -1,0 +1,6 @@
+E:\HK2-III\KTTKPM\Server_Sim\Server_Sim\bin\Debug\Server_Sim.exe.config
+E:\HK2-III\KTTKPM\Server_Sim\Server_Sim\bin\Debug\Server_Sim.exe
+E:\HK2-III\KTTKPM\Server_Sim\Server_Sim\bin\Debug\Server_Sim.pdb
+E:\HK2-III\KTTKPM\Server_Sim\Server_Sim\obj\Debug\Server_Sim.csprojResolveAssemblyReference.cache
+E:\HK2-III\KTTKPM\Server_Sim\Server_Sim\obj\Debug\Server_Sim.exe
+E:\HK2-III\KTTKPM\Server_Sim\Server_Sim\obj\Debug\Server_Sim.pdb
